@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.text-container {
+    width: 80%;
+    margin: auto;
+}
+
+.colored-text {
+    background-color:blueviolet ;
+    color:darkorchid;
+    padding: 10px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.text-explanation {
+    margin: 20px 0;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.image-row {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.image-row img {
+    max-width: 30%;
+    height: auto;
+}
+
+footer {
+    background-color:deeppink;
+    color:hotpink;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

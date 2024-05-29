@@ -1,0 +1,13 @@
+body {background-color: hotpink;}
+#nama {
+    font-family: 'Times New Roman', Times, serif;
+    color :brown;
+}
+.menu { 
+    display: flex;
+    justify-content: center;
+}
+.container {
+    color: blue;
+    margin: 20px;
+}
